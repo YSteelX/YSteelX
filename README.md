@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @YSteelX
-- 👀 I’m interested in ...
-- 🌱 I’m Python Developer ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-YSteelX/YSteelX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software and Cyber Sec.
+- 🌱 I’m Python, JavaScript and Web Developer.
+- 📫 https://www.instagram.com/ysteelx/
